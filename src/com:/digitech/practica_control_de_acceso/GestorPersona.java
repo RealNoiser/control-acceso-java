@@ -18,7 +18,7 @@ public class GestorPersona {
         persona.setNombre(scanner.nextLine());
         
         System.out.println("Apellido: ");
-        persona.setNombre(scanner.nextLine());
+        persona.setApellido(scanner.nextLine());
         
         System.out.println("Calle: ");
         persona.setCalle(scanner.nextLine());
